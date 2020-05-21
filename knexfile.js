@@ -27,7 +27,7 @@ module.exports = {
       directory: "./data/seeds",
     },
   },
-
+  //herokue postgres
   production: {
     client: "pg", // npm i pg
     connection: pgConnection,
